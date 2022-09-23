@@ -18,6 +18,7 @@ if __name__ == '__main__':
     webdriver = uc.Chrome(
         options=options,
     )
+    
     webdriver.get('https://twitter.com/i/trends')
     sleep(2)
     xx = webdriver.find_elements(By.XPATH, value= '/html/body/div[1]/div/div/div[2]/main/div/div/div/div[1]/div/div[2]/section/div/div/div[*]/div/div/div')
@@ -34,5 +35,5 @@ if __name__ == '__main__':
     df["tweets"] = df["tweets"].str.strip()
     df["tweets"] = df["tweets"].astype(int)
     print(df)
-    df.to_csv("twitter.csv", index=False)
+    df.to_csv("./resultados/twitter.csv", index=False)
     
