@@ -1,21 +1,19 @@
-identificador,tendencia,tweets
-Tendencia en Chile,Karen,55600
-Tendencia en Chile,Revolución Democrática,1079
-Política · Tendencia,Venezolanos,27300
-Política · Tendencia,#AcusacionConstitucionalBoric,5173
-Tendencia en Chile,Sichel,1000
-Tendencia en Chile,Borghi,2663
-Tendencia en Chile,Culonas,1000
-Política · Tendencia,#TRAIDORES_A_LA_PATRIA,6945
-Tendencia en Chile,#Hackeo,1000
-Tendencia en Chile,Perú,65500
-Tendencia en Chile,Diosdado Cabello,18900
-Política · Tendencia,Kast,9805
-Tendencia en Chile,Antonia,5237
-Tendencia en Chile,Anita,23500
-Tendencia en Chile,Entel,4085
-Tendencia en Chile,Bravo,73100
-Política · Tendencia,#BoricMienteEnLaONU,8969
-Deportes · Tendencia,Valdivia,2803
-Tendencia en Chile,Briones,1000
-Tendencia en Chile,Minsal,2311
+identificador,tendencia,tweets,link
+Tendencia en Chile,King,555000,https://twitter.com/search?q=King&src=trend_click&vertical=trends
+Tendencia en Chile,#PodemosHablarCHV,1000,https://twitter.com/search?q=#PodemosHablarCHV&src=trend_click&vertical=trends
+Política · Tendencia,Xi Jinping,12900,https://twitter.com/search?q=Xi Jinping&src=trend_click&vertical=trends
+Tendencia en Chile,Tula,3003,https://twitter.com/search?q=Tula&src=trend_click&vertical=trends
+Política · Tendencia,Allende,18200,https://twitter.com/search?q=Allende&src=trend_click&vertical=trends
+Política · Tendencia,El TOC,7304,https://twitter.com/search?q=El TOC&src=trend_click&vertical=trends
+Tendencia en Chile,Claudio Palma,1000,https://twitter.com/search?q=Claudio Palma&src=trend_click&vertical=trends
+Tendencia en Chile,Costanera Norte,1000,https://twitter.com/search?q=Costanera Norte&src=trend_click&vertical=trends
+Tendencia en Chile,Alejandra Matus,1662,https://twitter.com/search?q=Alejandra Matus&src=trend_click&vertical=trends
+Tendencia en Chile,Alexis,22900,https://twitter.com/search?q=Alexis&src=trend_click&vertical=trends
+Tendencia en Chile,Terremoto,8056,https://twitter.com/search?q=Terremoto&src=trend_click&vertical=trends
+Tendencia en Chile,Karen Doggenweiler,1473,https://twitter.com/search?q=Karen Doggenweiler&src=trend_click&vertical=trends
+Tendencia en Chile,Entel,8999,https://twitter.com/search?q=Entel&src=trend_click&vertical=trends
+Tendencia en Chile,La Red,37100,https://twitter.com/search?q=La Red&src=trend_click&vertical=trends
+Tendencia en Chile,Santiago Centro,1000,https://twitter.com/search?q=Santiago Centro&src=trend_click&vertical=trends
+Tendencia en Chile,Salucita,1000,https://twitter.com/search?q=Salucita&src=trend_click&vertical=trends
+Tendencia en Chile,Mónica González,1421,https://twitter.com/search?q=Mónica González&src=trend_click&vertical=trends
+Tendencia en Chile,Exitosa,10200,https://twitter.com/search?q=Exitosa&src=trend_click&vertical=trends
