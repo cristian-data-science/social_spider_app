@@ -40,9 +40,9 @@ if __name__ == '__main__':
     for i in df["tendencia"]:
         links.append(f"https://twitter.com/search?q={i}&src=trend_click&vertical=trends")
         #print(f"https://twitter.com/search?q={i}&src=trend_click&vertical=trends")
-
     
     df["link"] = links
+    df["link"] = df["link"].str.replace(" ","%20")
     print(df)
     df.to_csv("./resultados/twitter.csv", index=False)
     
