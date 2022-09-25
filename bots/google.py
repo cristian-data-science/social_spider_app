@@ -10,7 +10,7 @@ if __name__ == '__main__':
 
 
     options = webdriver.ChromeOptions()
-    #options.headless = True
+    options.headless = True
     #options.add_argument("--log-level=3")
     options.add_argument("--start-maximized")
     #options.add_argument('proxy-server=106.122.8.54:3128')
@@ -38,6 +38,7 @@ if __name__ == '__main__':
   
     df = pd.DataFrame(lista, columns=['top','trend','busqueda'])
     df["link"] = zz
+    print(df)
     df.to_csv("./resultados/google.csv", index=False)
 
 

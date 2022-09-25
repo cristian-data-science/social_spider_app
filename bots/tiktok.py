@@ -37,6 +37,7 @@ if __name__ == '__main__':
     
     df = pd.DataFrame(lista, columns=["trend"])
     df["link"] = link
+    print(df)
     df.to_csv("./resultados/tiktok.csv", index=False)
 
 
