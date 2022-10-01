@@ -1,0 +1,12 @@
+streamlit
+bs4
+pandas
+matplotlib
+pytz
+pyxlsb 
+xlsxwriter
+streamlit-lottie
+streamlit-aggrid
+flask_babel
+streamlit_option_menu
+
