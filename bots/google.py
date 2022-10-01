@@ -43,6 +43,7 @@ if __name__ == '__main__':
     df["busqueda"] = df["busqueda"].str.replace("M+","000000")
     df["busqueda"] = df["busqueda"].str.replace("+","")
     df["busqueda"] = df["busqueda"].str.replace(" ","")
+    df["busqueda"] = df["busqueda"].str.replace("mil","")
     df["busqueda"] = df["busqueda"].astype(float).astype(int)
     print(df)
     df.to_csv("./resultados/google.csv", index=False)
