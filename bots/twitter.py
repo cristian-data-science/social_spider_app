@@ -20,6 +20,7 @@ if __name__ == '__main__':
     options.add_argument('--disable-dev-shm-usage')
     #options.add_argument('proxy-server=106.122.8.54:3128')
     #options.add_argument(r'--user-data-dir=C:\Users\suppo\AppData\Local\Google\Chrome\User Data\Default')
+    options.add_argument("--lang=es-ES")
 
     webdriver = uc.Chrome(
         options=options,

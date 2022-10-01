@@ -11,10 +11,16 @@ if __name__ == '__main__':
 
     options = webdriver.ChromeOptions()
     options.headless = True
-    #options.add_argument("--log-level=3")
+    options.add_argument("--log-level=3")
+    options.add_argument("--incognito")
     options.add_argument("--start-maximized")
+    options.add_argument('--no-sandbox')
+    options.add_argument("--disable-extensions")
+    options.add_argument('--allow-running-insecure-content')
+    options.add_argument('--disable-dev-shm-usage')
     #options.add_argument('proxy-server=106.122.8.54:3128')
     #options.add_argument(r'--user-data-dir=C:\Users\suppo\AppData\Local\Google\Chrome\User Data\Default')
+    options.add_argument("--lang=es-ES")
 
     webdriver = uc.Chrome(
         options=options,
