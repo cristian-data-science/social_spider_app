@@ -42,7 +42,7 @@ if __name__ == '__main__':
         #print(f"https://twitter.com/search?q={i}&src=trend_click&vertical=trends")
     
     df["link"] = links
-    df["link"] = df["link"].str.replace(" ","%20")
+    df["link"] = df["link"].replace(" ","%20")
     print(df)
     df.to_csv("./resultados/twitter.csv", index=False)
     
