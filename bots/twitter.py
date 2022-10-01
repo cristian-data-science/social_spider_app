@@ -43,6 +43,7 @@ if __name__ == '__main__':
     
     df["link"] = links
     df["link"] = df["link"].replace(" ","%20")
-    print(df)
+    #print(df)
+    print(lista)
     df.to_csv("./resultados/twitter.csv", index=False)
     
