@@ -20,7 +20,7 @@ if __name__ == '__main__':
     options.add_argument('--disable-dev-shm-usage')
     #options.add_argument('proxy-server=106.122.8.54:3128')
     #options.add_argument(r'--user-data-dir=C:\Users\suppo\AppData\Local\Google\Chrome\User Data\Default')
-    options.add_argument("--lang=es-ES")
+    #options.add_argument("--lang=es-ES")
 
     webdriver = uc.Chrome(
         options=options,
@@ -49,7 +49,7 @@ if __name__ == '__main__':
     df["busqueda"] = df["busqueda"].str.replace("M+","000000")
     df["busqueda"] = df["busqueda"].str.replace("+","")
     df["busqueda"] = df["busqueda"].str.replace(" ","")
-    df["busqueda"] = df["busqueda"].str.replace("mil","")
+    df["busqueda"] = df["busqueda"].str.replace("mil","000")
     df["busqueda"] = df["busqueda"].astype(float).astype(int)
     print(df)
     df.to_csv("./resultados/google.csv", index=False)
