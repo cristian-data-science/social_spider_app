@@ -1,21 +1,21 @@
 top,trend,busqueda,link
 1,Paris,200000,https://trends.google.es/trends/explore?q=Paris&date=now+7-d&geo=CL
-2,LATAM,100000,https://trends.google.es/trends/explore?q=LATAM&date=now+7-d&geo=CL
+2,LATAM,200000,https://trends.google.es/trends/explore?q=LATAM&date=now+7-d&geo=CL
 3,Lider,100000,https://trends.google.es/trends/explore?q=Lider&date=now+7-d&geo=CL
 4,Hites,50000,https://trends.google.es/trends/explore?q=Hites&date=now+7-d&geo=CL
-5,Sky,50000,https://trends.google.es/trends/explore?q=Sky&date=now+7-d&geo=CL
-6,Adidas,50000,https://trends.google.es/trends/explore?q=Adidas&date=now+7-d&geo=CL
-7,Manchester United,50000,https://trends.google.es/trends/explore?q=Manchester+United&date=now+7-d&geo=CL
-8,Manchester City,50000,https://trends.google.es/trends/explore?q=Manchester+City&date=now+7-d&geo=CL
-9,Salcobrand,20000,https://trends.google.es/trends/explore?q=Salcobrand&date=now+7-d&geo=CL
-10,Puma,20000,https://trends.google.es/trends/explore?q=Puma&date=now+7-d&geo=CL
-11,Despegar,20000,https://trends.google.es/trends/explore?q=Despegar&date=now+7-d&geo=CL
-12,HM,20000,https://trends.google.es/trends/explore?q=HM&date=now+7-d&geo=CL
-13,Vans,20000,https://trends.google.es/trends/explore?q=Vans&date=now+7-d&geo=CL
-14,Converse,20000,https://trends.google.es/trends/explore?q=Converse&date=now+7-d&geo=CL
-15,iPhone 13,20000,https://trends.google.es/trends/explore?q=iPhone+13&date=now+7-d&geo=CL
-16,Samsung,10000,https://trends.google.es/trends/explore?q=Samsung&date=now+7-d&geo=CL
-17,Corona,10000,https://trends.google.es/trends/explore?q=Corona&date=now+7-d&geo=CL
-18,Decathlon,10000,https://trends.google.es/trends/explore?q=Decathlon&date=now+7-d&geo=CL
-19,Zara,10000,https://trends.google.es/trends/explore?q=Zara&date=now+7-d&geo=CL
-20,Under Armour,10000,https://trends.google.es/trends/explore?q=Under+Armour&date=now+7-d&geo=CL
+5,Real Madrid,50000,https://trends.google.es/trends/explore?q=Real+Madrid&date=now+7-d&geo=CL
+6,Sky,50000,https://trends.google.es/trends/explore?q=Sky&date=now+7-d&geo=CL
+7,Entel,50000,https://trends.google.es/trends/explore?q=Entel&date=now+7-d&geo=CL
+8,Movistar,50000,https://trends.google.es/trends/explore?q=Movistar&date=now+7-d&geo=CL
+9,Adidas,50000,https://trends.google.es/trends/explore?q=Adidas&date=now+7-d&geo=CL
+10,Manchester United,50000,https://trends.google.es/trends/explore?q=Manchester+United&date=now+7-d&geo=CL
+11,Manchester City,50000,https://trends.google.es/trends/explore?q=Manchester+City&date=now+7-d&geo=CL
+12,Salcobrand,20000,https://trends.google.es/trends/explore?q=Salcobrand&date=now+7-d&geo=CL
+13,Puma,20000,https://trends.google.es/trends/explore?q=Puma&date=now+7-d&geo=CL
+14,Despegar,20000,https://trends.google.es/trends/explore?q=Despegar&date=now+7-d&geo=CL
+15,HM,20000,https://trends.google.es/trends/explore?q=HM&date=now+7-d&geo=CL
+16,Vans,20000,https://trends.google.es/trends/explore?q=Vans&date=now+7-d&geo=CL
+17,Converse,20000,https://trends.google.es/trends/explore?q=Converse&date=now+7-d&geo=CL
+18,iPhone 13,20000,https://trends.google.es/trends/explore?q=iPhone+13&date=now+7-d&geo=CL
+19,Samsung,20000,https://trends.google.es/trends/explore?q=Samsung&date=now+7-d&geo=CL
+20,Corona,20000,https://trends.google.es/trends/explore?q=Corona&date=now+7-d&geo=CL
