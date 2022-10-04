@@ -1,21 +1,24 @@
 top,trend,busqueda,link
+1,Unimarc,20000,https://trends.google.es/trends/explore?q=Unimarc&date=now+7-d&geo=CL
+2,Mercado Pago,2000,https://trends.google.es/trends/explore?q=Mercado+Pago&date=now+7-d&geo=CL
+3,Copa,2000,https://trends.google.es/trends/explore?q=Copa&date=now+7-d&geo=CL
 1,Falabella,500000,https://trends.google.es/trends/explore?q=Falabella&date=now+7-d&geo=CL
 2,Ripley,500000,https://trends.google.es/trends/explore?q=Ripley&date=now+7-d&geo=CL
 3,U. de Chile Audax Italiano,200000,https://trends.google.es/trends/explore?q=U.+de+Chile++Audax+Italiano&date=now+7-d&geo=CL
 4,U. de Chile vs Audax Italiano,100000,https://trends.google.es/trends/explore?q=U.+de+Chile+vs+Audax+Italiano&date=now+7-d&geo=CL
-5,Hites,100000,https://trends.google.es/trends/explore?q=Hites&date=now+7-d&geo=CL
-6,Sky,100000,https://trends.google.es/trends/explore?q=Sky&date=now+7-d&geo=CL
-7,Entel,50000,https://trends.google.es/trends/explore?q=Entel&date=now+7-d&geo=CL
-8,Salcobrand,50000,https://trends.google.es/trends/explore?q=Salcobrand&date=now+7-d&geo=CL
+5,Salcobrand,100000,https://trends.google.es/trends/explore?q=Salcobrand&date=now+7-d&geo=CL
+6,Hites,100000,https://trends.google.es/trends/explore?q=Hites&date=now+7-d&geo=CL
+7,Sky,100000,https://trends.google.es/trends/explore?q=Sky&date=now+7-d&geo=CL
+8,Entel,50000,https://trends.google.es/trends/explore?q=Entel&date=now+7-d&geo=CL
 9,Adidas,50000,https://trends.google.es/trends/explore?q=Adidas&date=now+7-d&geo=CL
 10,Movistar,50000,https://trends.google.es/trends/explore?q=Movistar&date=now+7-d&geo=CL
 11,IFE Laboral,50000,https://trends.google.es/trends/explore?q=IFE+Laboral&date=now+7-d&geo=CL
 12,Dafiti,50000,https://trends.google.es/trends/explore?q=Dafiti&date=now+7-d&geo=CL
-13,Pc Factory,50000,https://trends.google.es/trends/explore?q=Pc+Factory&date=now+7-d&geo=CL
-14,Jumbo,50000,https://trends.google.es/trends/explore?q=Jumbo&date=now+7-d&geo=CL
-15,Puma,50000,https://trends.google.es/trends/explore?q=Puma&date=now+7-d&geo=CL
-16,Manchester United,50000,https://trends.google.es/trends/explore?q=Manchester+United&date=now+7-d&geo=CL
-17,Manchester City,50000,https://trends.google.es/trends/explore?q=Manchester+City&date=now+7-d&geo=CL
-18,Skechers,20000,https://trends.google.es/trends/explore?q=Skechers&date=now+7-d&geo=CL
-19,H&M,20000,https://trends.google.es/trends/explore?q=H%26M&date=now+7-d&geo=CL
-20,Vans,20000,https://trends.google.es/trends/explore?q=Vans&date=now+7-d&geo=CL
+13,Viajes Falabella,50000,https://trends.google.es/trends/explore?q=Viajes+Falabella&date=now+7-d&geo=CL
+14,Pc Factory,50000,https://trends.google.es/trends/explore?q=Pc+Factory&date=now+7-d&geo=CL
+15,Jumbo,50000,https://trends.google.es/trends/explore?q=Jumbo&date=now+7-d&geo=CL
+16,Puma,50000,https://trends.google.es/trends/explore?q=Puma&date=now+7-d&geo=CL
+17,Manchester United,50000,https://trends.google.es/trends/explore?q=Manchester+United&date=now+7-d&geo=CL
+18,Manchester City,50000,https://trends.google.es/trends/explore?q=Manchester+City&date=now+7-d&geo=CL
+19,Skechers,20000,https://trends.google.es/trends/explore?q=Skechers&date=now+7-d&geo=CL
+20,H&M,20000,https://trends.google.es/trends/explore?q=H%26M&date=now+7-d&geo=CL
