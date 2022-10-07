@@ -1,24 +1,26 @@
 top,trend,busqueda,link
-1,IPC septiembre 2022,5000,https://trends.google.es/trends/explore?q=IPC+septiembre+2022&date=now+7-d&geo=CL
-2,El telefono del señor Harrigan,2000,https://trends.google.es/trends/explore?q=El+telefono+del+se%C3%B1or+Harrigan&date=now+7-d&geo=CL
-3,Tailandia,2000,https://trends.google.es/trends/explore?q=Tailandia&date=now+7-d&geo=CL
+1,Europa League,50000,https://trends.google.es/trends/explore?q=Europa+League&date=now+7-d&geo=CL
+2,IPC septiembre 2022,10000,https://trends.google.es/trends/explore?q=IPC+septiembre+2022&date=now+7-d&geo=CL
+3,El telefono del señor Harrigan,2000,https://trends.google.es/trends/explore?q=El+telefono+del+se%C3%B1or+Harrigan&date=now+7-d&geo=CL
+4,Corte de agua,2000,https://trends.google.es/trends/explore?q=Corte+de+agua&date=now+7-d&geo=CL
+5,Tailandia,2000,https://trends.google.es/trends/explore?q=Tailandia&date=now+7-d&geo=CL
 1,Roma vs Betis,100000,https://trends.google.es/trends/explore?q=Roma+vs+Betis&date=now+7-d&geo=CL
 2,Omonia vs Manchester United,100000,https://trends.google.es/trends/explore?q=Omonia+vs+Manchester+United&date=now+7-d&geo=CL
-3,Europa League,50000,https://trends.google.es/trends/explore?q=Europa+League&date=now+7-d&geo=CL
-4,Boca,20000,https://trends.google.es/trends/explore?q=Boca&date=now+7-d&geo=CL
-5,Arsenal vs Bodø/Glimt,20000,https://trends.google.es/trends/explore?q=Arsenal+vs+Bod%C3%B8/Glimt&date=now+7-d&geo=CL
-6,Punta Cana,20000,https://trends.google.es/trends/explore?q=Punta+Cana&date=now+7-d&geo=CL
-7,Paramore,20000,https://trends.google.es/trends/explore?q=Paramore&date=now+7-d&geo=CL
-8,Jaime Mulet,10000,https://trends.google.es/trends/explore?q=Jaime+Mulet&date=now+7-d&geo=CL
-9,Slash,10000,https://trends.google.es/trends/explore?q=Slash&date=now+7-d&geo=CL
-10,Annie Ernaux,10000,https://trends.google.es/trends/explore?q=Annie+Ernaux&date=now+7-d&geo=CL
-11,Karen Doggenweiler,5000,https://trends.google.es/trends/explore?q=Karen+Doggenweiler&date=now+7-d&geo=CL
-12,Splatoon 3,5000,https://trends.google.es/trends/explore?q=Splatoon+3&date=now+7-d&geo=CL
-13,Liga Argentina,5000,https://trends.google.es/trends/explore?q=Liga+Argentina&date=now+7-d&geo=CL
-14,Sheriff vs Real Sociedad,2000,https://trends.google.es/trends/explore?q=Sheriff+vs+Real+Sociedad&date=now+7-d&geo=CL
-15,Lazio,2000,https://trends.google.es/trends/explore?q=Lazio&date=now+7-d&geo=CL
-16,Ivan Nuñez,2000,https://trends.google.es/trends/explore?q=Ivan+Nu%C3%B1ez&date=now+7-d&geo=CL
-17,Real Betis Balompié,2000,https://trends.google.es/trends/explore?q=Real+Betis+Balompi%C3%A9&date=now+7-d&geo=CL
-18,Daniela ramirez,2000,https://trends.google.es/trends/explore?q=Daniela+ramirez&date=now+7-d&geo=CL
-19,Viña del Mar,2000,https://trends.google.es/trends/explore?q=Vi%C3%B1a+del+Mar&date=now+7-d&geo=CL
-20,Independiente vs Central Córdoba,2000,https://trends.google.es/trends/explore?q=Independiente+vs+Central+C%C3%B3rdoba&date=now+7-d&geo=CL
+3,Boca,50000,https://trends.google.es/trends/explore?q=Boca&date=now+7-d&geo=CL
+4,Punta Cana,20000,https://trends.google.es/trends/explore?q=Punta+Cana&date=now+7-d&geo=CL
+5,Paramore,20000,https://trends.google.es/trends/explore?q=Paramore&date=now+7-d&geo=CL
+6,Arsenal vs Bodø/Glimt,20000,https://trends.google.es/trends/explore?q=Arsenal+vs+Bod%C3%B8/Glimt&date=now+7-d&geo=CL
+7,Jaime Mulet,10000,https://trends.google.es/trends/explore?q=Jaime+Mulet&date=now+7-d&geo=CL
+8,Slash,10000,https://trends.google.es/trends/explore?q=Slash&date=now+7-d&geo=CL
+9,Annie Ernaux,10000,https://trends.google.es/trends/explore?q=Annie+Ernaux&date=now+7-d&geo=CL
+10,Karen Doggenweiler,5000,https://trends.google.es/trends/explore?q=Karen+Doggenweiler&date=now+7-d&geo=CL
+11,Splatoon 3,5000,https://trends.google.es/trends/explore?q=Splatoon+3&date=now+7-d&geo=CL
+12,Sheriff vs Real Sociedad,2000,https://trends.google.es/trends/explore?q=Sheriff+vs+Real+Sociedad&date=now+7-d&geo=CL
+13,Lazio,2000,https://trends.google.es/trends/explore?q=Lazio&date=now+7-d&geo=CL
+14,Ivan Nuñez,2000,https://trends.google.es/trends/explore?q=Ivan+Nu%C3%B1ez&date=now+7-d&geo=CL
+15,Real Betis Balompié,2000,https://trends.google.es/trends/explore?q=Real+Betis+Balompi%C3%A9&date=now+7-d&geo=CL
+16,Daniela ramirez,2000,https://trends.google.es/trends/explore?q=Daniela+ramirez&date=now+7-d&geo=CL
+17,Arsenal vs,2000,https://trends.google.es/trends/explore?q=Arsenal+vs&date=now+7-d&geo=CL
+18,Viña del Mar,2000,https://trends.google.es/trends/explore?q=Vi%C3%B1a+del+Mar&date=now+7-d&geo=CL
+19,Independiente vs Central Córdoba,2000,https://trends.google.es/trends/explore?q=Independiente+vs+Central+C%C3%B3rdoba&date=now+7-d&geo=CL
+20,Tiago PZK,2000,https://trends.google.es/trends/explore?q=Tiago+PZK&date=now+7-d&geo=CL
