@@ -1,34 +1,21 @@
 top,trend,busqueda,link
 1,Metro de Santiago,50000,https://trends.google.es/trends/explore?q=Metro+de+Santiago&date=now+7-d&geo=CL
 2,Sevilla vs Valencia CF,20000,https://trends.google.es/trends/explore?q=Sevilla+vs+Valencia+CF&date=now+7-d&geo=CL
-3,Noticias de hoy,10000,https://trends.google.es/trends/explore?q=Noticias+de+hoy&date=now+7-d&geo=CL
-4,Luis Mateucci,10000,https://trends.google.es/trends/explore?q=Luis+Mateucci&date=now+7-d&geo=CL
-5,Leonardo Farkas,5000,https://trends.google.es/trends/explore?q=Leonardo+Farkas&date=now+7-d&geo=CL
-6,Carolina Escobar,5000,https://trends.google.es/trends/explore?q=Carolina+Escobar&date=now+7-d&geo=CL
-7,Sims 4,2000,https://trends.google.es/trends/explore?q=Sims+4&date=now+7-d&geo=CL
-8,Camila Cabello,2000,https://trends.google.es/trends/explore?q=Camila+Cabello&date=now+7-d&geo=CL
-9,Ezra Miller,2000,https://trends.google.es/trends/explore?q=Ezra+Miller&date=now+7-d&geo=CL
-10,18 de octubre Chile 2022,2000,https://trends.google.es/trends/explore?q=18+de+octubre+Chile+2022&date=now+7-d&geo=CL
-11,Copa Libertadores Femenina 2022,2000,https://trends.google.es/trends/explore?q=Copa+Libertadores+Femenina+2022&date=now+7-d&geo=CL
-12,Noticias EN VIVO,2000,https://trends.google.es/trends/explore?q=Noticias+EN+VIVO&date=now+7-d&geo=CL
-13,Diario financiero,2000,https://trends.google.es/trends/explore?q=Diario+financiero&date=now+7-d&geo=CL
-1,WhatsApp Web,200000,https://trends.google.es/trends/explore?q=WhatsApp+Web&date=now+7-d&geo=CL
-2,PSG vs Marsella,100000,https://trends.google.es/trends/explore?q=PSG+vs+Marsella&date=now+7-d&geo=CL
-3,Balon de Oro 2022,100000,https://trends.google.es/trends/explore?q=Balon+de+Oro+2022&date=now+7-d&geo=CL
-4,Gmail,100000,https://trends.google.es/trends/explore?q=Gmail&date=now+7-d&geo=CL
-5,WhatsApp,100000,https://trends.google.es/trends/explore?q=WhatsApp&date=now+7-d&geo=CL
-6,Santander,50000,https://trends.google.es/trends/explore?q=Santander&date=now+7-d&geo=CL
-7,Registro Civil,50000,https://trends.google.es/trends/explore?q=Registro+Civil&date=now+7-d&geo=CL
-8,El tiempo,20000,https://trends.google.es/trends/explore?q=El+tiempo&date=now+7-d&geo=CL
-9,Fonasa,20000,https://trends.google.es/trends/explore?q=Fonasa&date=now+7-d&geo=CL
-10,Scotiabank,20000,https://trends.google.es/trends/explore?q=Scotiabank&date=now+7-d&geo=CL
-11,Betis,20000,https://trends.google.es/trends/explore?q=Betis&date=now+7-d&geo=CL
-12,Maps,20000,https://trends.google.es/trends/explore?q=Maps&date=now+7-d&geo=CL
-13,Chilexpress,20000,https://trends.google.es/trends/explore?q=Chilexpress&date=now+7-d&geo=CL
-14,Classroom,20000,https://trends.google.es/trends/explore?q=Classroom&date=now+7-d&geo=CL
-15,COMPIN,20000,https://trends.google.es/trends/explore?q=COMPIN&date=now+7-d&geo=CL
-16,Chilevision,20000,https://trends.google.es/trends/explore?q=Chilevision&date=now+7-d&geo=CL
-17,BTS,20000,https://trends.google.es/trends/explore?q=BTS&date=now+7-d&geo=CL
-18,Enel,20000,https://trends.google.es/trends/explore?q=Enel&date=now+7-d&geo=CL
-19,Banco Chile,20000,https://trends.google.es/trends/explore?q=Banco+Chile&date=now+7-d&geo=CL
-20,Poder Judicial,10000,https://trends.google.es/trends/explore?q=Poder+Judicial&date=now+7-d&geo=CL
+3,Sims 4,10000,https://trends.google.es/trends/explore?q=Sims+4&date=now+7-d&geo=CL
+4,Noticias de hoy,10000,https://trends.google.es/trends/explore?q=Noticias+de+hoy&date=now+7-d&geo=CL
+5,Luis Mateucci,10000,https://trends.google.es/trends/explore?q=Luis+Mateucci&date=now+7-d&geo=CL
+6,Noticias,5000,https://trends.google.es/trends/explore?q=Noticias&date=now+7-d&geo=CL
+7,Atlético Madrid - Rayo Vallecano,5000,https://trends.google.es/trends/explore?q=Atl%C3%A9tico+Madrid+-+Rayo+Vallecano&date=now+7-d&geo=CL
+8,Leonardo Farkas,5000,https://trends.google.es/trends/explore?q=Leonardo+Farkas&date=now+7-d&geo=CL
+9,Carolina Escobar,5000,https://trends.google.es/trends/explore?q=Carolina+Escobar&date=now+7-d&geo=CL
+10,Costanera Center,5000,https://trends.google.es/trends/explore?q=Costanera+Center&date=now+7-d&geo=CL
+11,Blackburn Rovers,2000,https://trends.google.es/trends/explore?q=Blackburn+Rovers&date=now+7-d&geo=CL
+12,Camila Cabello,2000,https://trends.google.es/trends/explore?q=Camila+Cabello&date=now+7-d&geo=CL
+13,Getafe vs Athletic,2000,https://trends.google.es/trends/explore?q=Getafe+vs+Athletic&date=now+7-d&geo=CL
+14,Karol Cariola,2000,https://trends.google.es/trends/explore?q=Karol+Cariola&date=now+7-d&geo=CL
+15,Manifestaciones hoy,2000,https://trends.google.es/trends/explore?q=Manifestaciones+hoy&date=now+7-d&geo=CL
+16,Ezra Miller,2000,https://trends.google.es/trends/explore?q=Ezra+Miller&date=now+7-d&geo=CL
+17,Noticias en vivo,2000,https://trends.google.es/trends/explore?q=Noticias+en+vivo&date=now+7-d&geo=CL
+18,24horas,2000,https://trends.google.es/trends/explore?q=24horas&date=now+7-d&geo=CL
+19,Copa Libertadores Femenina 2022,2000,https://trends.google.es/trends/explore?q=Copa+Libertadores+Femenina+2022&date=now+7-d&geo=CL
+20,Diario financiero,2000,https://trends.google.es/trends/explore?q=Diario+financiero&date=now+7-d&geo=CL
